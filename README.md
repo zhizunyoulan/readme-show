@@ -1,5 +1,5 @@
 # water.js  ![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/npm-v1.0.1-blue) ![](https://img.shields.io/badge/circleci-passing-brightgreen) 
-[![](https://img.shields.io/badge/license-MIT-blue)]([https://img.shields.io/badge/license-MIT-blue](https://github.com/zhizunyoulan/readme-show/123.md))
+[![](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zhizunyoulan/readme-show/123.md)
 ![](https://github.com/penghuwan/water.js/blob/master/logo.png)
 
 water.js是一个如何编写一个好玩的readMe的示范例子，它具有以下特点
